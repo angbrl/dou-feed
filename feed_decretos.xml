@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+  <title>DOU — Decretos de Pessoal (DO2/DOE)</title>
+  <link>https://www.in.gov.br/leiturajornal</link>
+  <description>Atos do tipo Decreto de Pessoal publicados nas seções DO2 e DOE do Diário Oficial da União. Fonte: Imprensa Nacional (in.gov.br).</description>
+  <language>pt-br</language>
+  <lastBuildDate>Wed, 29 Jul 2026 10:49:55 -0300</lastBuildDate>
+  <generator>dou_rss_multifeed.py</generator>
+
+</channel>
+</rss>
