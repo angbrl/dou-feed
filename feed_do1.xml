@@ -5,7 +5,7 @@
   <link>https://www.in.gov.br/leiturajornal</link>
   <description>Atos da Seção 1 e da Seção 1 — Edição Extra do Diário Oficial da União, filtrados pelos órgãos de interesse: Atos do Poder Executivo/Legislativo/Judiciário etc., Presidência da República, Ministério da Fazenda, MGI, MPO, BCB, CGU e TCU; com exclusões configuráveis por combinação órgão + espécie e por órgão, preservando atos conjuntos. Fonte: Imprensa Nacional (in.gov.br).</description>
   <language>pt-br</language>
-  <lastBuildDate>Mon, 09 Nov 2026 15:56:26 -0300</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 16:00:24 -0300</lastBuildDate>
   <generator>dou_rss_multifeed.py</generator>
   <item>
     <title>PORTARIA SSC/MGI Nº 9.097, DE 6 DE NOVEMBRO DE 2026</title>
@@ -1500,6 +1500,435 @@
     <category>Atos do Poder Judiciário</category>
     <category>Supremo Tribunal Federal</category>
     <category>Plenário</category>
+  </item>
+  <item>
+    <title>PORTARIA SMA/MPO Nº 407, DE 17 DE SETEMBRO DE 2026</title>
+    <link>https://www.in.gov.br/web/dou/-/portaria-sma/mpo-n-407-de-17-de-setembro-de-2026-742409083</link>
+    <guid isPermaLink="true">https://www.in.gov.br/web/dou/-/portaria-sma/mpo-n-407-de-17-de-setembro-de-2026-742409083</guid>
+    <pubDate>Fri, 06 Nov 2026 08:00:00 -0300</pubDate>
+    <description>[Seção 1 — Edição Extra | Edição 209-B | Pág. 8 | Portaria] Ministério do Planejamento e Orçamento/Secretaria de Monitoramento e Avaliação de Políticas Públicas — PORTARIA SMA/MPO Nº 407, DE 17 DE SETEMBRO DE 2026 Institui o Repositório de Evidências de Políticas Públicas - Evidencia, no âmbito da Secretaria de Monitoramento e Avaliação de Políticas Públicas do Ministério do Planejamento e Orçamento. O SECRETÁRIO DE MONITORAMENTO E AVALIAÇÃO DE POLÍTICAS PÚBLICAS, no uso das atribuições que lhe conferem o art. 33, incisos XI, XIII, XV e XVIII, do Anexo I do...</description>
+    <content:encoded><![CDATA[<p><em>Seção 1 — Edição Extra | Edição 209-B | Pág. 8 | Ministério do Planejamento e Orçamento/Secretaria de Monitoramento e Avaliação de Políticas Públicas</em></p><p>PORTARIA SMA/MPO Nº 407, DE 17 DE SETEMBRO DE 2026</p>
+<p>Institui o Repositório de Evidências de Políticas Públicas - Evidencia, no âmbito da Secretaria de Monitoramento e Avaliação de Políticas Públicas do Ministério do Planejamento e Orçamento.</p>
+<p>O SECRETÁRIO DE MONITORAMENTO E AVALIAÇÃO DE POLÍTICAS PÚBLICAS, no uso das atribuições que lhe conferem o art. 33, incisos XI, XIII, XV e XVIII, do Anexo I do Decreto n° 11.353, de 1° de janeiro de 2023, resolve:</p>
+<p>CAPÍTULO I</p>
+<p>DAS DISPOSIÇÕES PRELIMINARES</p>
+<p>Art. 1° Fica instituído, no âmbito da Secretaria de Monitoramento e Avaliação de Políticas Públicas do Ministério do Planejamento e Orçamento, o Repositório de Evidências de Políticas Públicas - Evidencia, com a finalidade de:</p>
+<p>I - centralizar, preservar, sistematizar e disseminar evidências de políticas públicas, seus produtos e metadados;</p>
+<p>II - promover transparência ativa e acesso público a evidências de políticas públicas;</p>
+<p>III - fomentar a tomada de decisão informada por evidências, por meio do fortalecimento de seu uso na formulação, na implementação, no monitoramento, na avaliação e no aperfeiçoamento de políticas públicas;</p>
+<p>IV - incentivar a padronização mínima de documentação e metadados para evidências de políticas públicas; e</p>
+<p>V - apoiar a cooperação e a integração entre órgãos e entidades públicas produtoras de evidências de políticas públicas.</p>
+<p>Art. 2° Para fins desta Portaria, considera-se:</p>
+<p>I - evidência de política pública: informação ou dado oriundo de pesquisa, estudo, avaliação ou produto analítico produzido de forma sistemática e metodologicamente fundamentada, capaz de subsidiar a formulação, a implementação, o monitoramento, a avaliação ou o aperfeiçoamento de políticas, programas, ações e instrumentos governamentais;</p>
+<p>II - depósito: ato de submeter e registrar pesquisa, estudo, avaliação ou produto analítico de política pública e seus metadados no Evidencia;</p>
+<p>III - depositante: órgão ou entidade da administração pública federal ou, em caráter piloto, da administração pública estadual, distrital ou municipal, autorizado a realizar depósito no Evidencia de produtos e metadados de pesquisa, estudo, avaliação ou produto analítico de política pública;</p>
+<p>IV - curadoria: atividade de verificação de conformidade formal, documental e normativa do depósito, sem implicar avaliação do mérito metodológico ou chancela institucional das conclusões constantes do material; e</p>
+<p>V - metadados: informações estruturadas e padronizadas que descrevem a pesquisa, estudo, avaliação ou produto analítico, no âmbito do Evidencia.</p>
+<p>CAPÍTULO II</p>
+<p>DA GESTÃO E DO ACESSO</p>
+<p>Art. 3° A gestão do Evidencia caberá à Secretaria de Monitoramento e Avaliação de Políticas Públicas, a quem compete:</p>
+<p>I - realizar a curadoria do Evidencia;</p>
+<p>II - elaborar guia de uso do Evidencia, incluindo padrões mínimos de metadados, taxonomias e formatos aceitos para depósito;</p>
+<p>III - orientar e capacitar depositantes quanto a procedimentos e requisitos do Evidencia; e</p>
+<p>IV - manter e evoluir a plataforma tecnológica do Evidencia, promovendo a interoperabilidade com portais e sistemas de governo digital, transparência e dados abertos, quando aplicável.</p>
+<p>Art. 4° O Evidencia disponibilizará as pesquisas, estudos, avaliações ou produtos analíticos de políticas públicas em acesso aberto, observado:</p>
+<p>I - o regime de transparência e divulgação ativa de informações de interesse público;</p>
+<p>II - a proteção de dados pessoais e a minimização de dados; e</p>
+<p>III - os direitos autorais e os termos de licenciamento aplicáveis.</p>
+<p>Art. 5° Poderá ser estabelecida, no âmbito do Evidencia, política de versionamento e de preservação digital, contemplando:</p>
+<p>I - identificação de versões e datas de publicação;</p>
+<p>II - preservação de registros de alterações;</p>
+<p>III - manutenção de identificadores persistentes, quando disponíveis; e</p>
+<p>IV - armazenamento seguro e contingência.</p>
+<p>CAPÍTULO III</p>
+<p>DO DEPÓSITO</p>
+<p>Art. 6° Poderão ser depositadas no Evidencia pesquisas, estudos, avaliações ou produtos analíticos de políticas públicas:</p>
+<p>I - realizados pela Secretaria de Monitoramento e Avaliação de Políticas Públicas; ou</p>
+<p>II - desenvolvidos por órgãos ou entidades públicas, conforme disposto no capítulo IV desta portaria e mediante celebração do Termo de Adesão constante do Anexo Único.</p>
+<p>Art. 7° O depósito deverá observar requisitos mínimos de conformidade:</p>
+<p>I - preenchimento completo dos metadados mínimos definidos no guia de uso do Evidencia;</p>
+<p>II - declaração de conformidade com proteção de dados pessoais, com indicação de procedimentos de anonimização ou pseudonimização, quando necessários; e</p>
+<p>III - indicação expressa de que o conteúdo possui acesso público e está apto à divulgação no Evidencia.</p>
+<p>Art. 8° São vedados depósitos que:</p>
+<p>I - violem a legislação de proteção de dados pessoais ou exponham dados pessoais desnecessários;</p>
+<p>II - contenham informações submetidas à classificação ou à restrição de acesso;</p>
+<p>III - infrinjam direitos autorais; e</p>
+<p>IV - apresentem conteúdo manifestamente alheio à finalidade do Evidencia.</p>
+<p>Art. 9° O processo de depósito observará, no mínimo, as seguintes etapas:</p>
+<p>I - submissão pelo depositante via interface do Evidencia, com metadados e arquivos;</p>
+<p>II - triagem e validação formal pela equipe de curadoria;</p>
+<p>III - solicitação de ajustes ao depositante, quando necessário; e</p>
+<p>IV - publicação, com atribuição de identificador e registro de versão, quando aplicável.</p>
+<p>CAPÍTULO IV</p>
+<p>DAS PARCERIAS E DA COOPERAÇÃO</p>
+<p>Art. 10. A Secretaria de Monitoramento e Avaliação de Políticas Públicas poderá celebrar parcerias, acordos de cooperação técnica, convênios, termos de execução descentralizada e outros instrumentos congêneres com órgãos e entidades da administração pública federal, direta ou indireta, com os seguintes objetos, entre outros:</p>
+<p>I - fomento à ciência aberta e ao uso da plataforma para depósito de pesquisa, estudo, avaliação ou produto analítico de políticas públicas;</p>
+<p>II - integração e interoperabilidade com repositórios, portais e sistemas;</p>
+<p>III - padronização de metadados e de metodologias;</p>
+<p>IV - desenvolvimento e manutenção do Evidencia;</p>
+<p>V - capacitação, curadoria compartilhada e produção de guias; ou</p>
+<p>VI - apoio à governança de dados, à preservação digital e à segurança da informação.</p>
+<p>§ 1° As parcerias a que se referem os incisos I, II e III do caput serão formalizadas por Termo de Adesão, conforme Anexo Único.</p>
+<p>§ 2° A Secretaria de Monitoramento e Avaliação de Políticas Públicas poderá celebrar, em caráter piloto e mediante justificativa técnica, parcerias com órgãos e entidades da administração pública estadual, distrital ou municipal, direta ou indireta, para testar, validar e aperfeiçoar procedimentos, padrões de interoperabilidade, mecanismos de depósito, processos de curadoria e modelos de governança do repositório.</p>
+<p>CAPÍTULO V</p>
+<p>DA PROTEÇÃO DE DADOS, DIREITOS AUTORAIS E RESPONSABILIDADES</p>
+<p>Art. 11. O tratamento de dados pessoais no âmbito do Evidencia observará a legislação aplicável e deverá:</p>
+<p>I - limitar o tratamento ao mínimo necessário para a finalidade pública do repositório;</p>
+<p>II - priorizar a publicação de informações anonimizadas ou agregadas, adotando medidas de minimização de dados pessoais e avaliando, quando cabível, os riscos de identificação ou reidentificação dos titulares, inclusive nas hipóteses de dados pessoais disponibilizados publicamente;</p>
+<p>III - prever medidas de segurança técnicas e administrativas compatíveis com os riscos; e</p>
+<p>IV - manter canal para exercício de direitos do titular, quando cabível.</p>
+<p>Art. 12. O depositante é responsável:</p>
+<p>I - pela veracidade e integridade do conteúdo depositado;</p>
+<p>II - por garantir que possui autorização para depositar e publicar o material;</p>
+<p>III - por indicar corretamente restrições de acesso, sigilos e bases legais; e</p>
+<p>IV - por assegurar a conformidade com proteção de dados e direitos autorais.</p>
+<p>Parágrafo único. A atividade da Secretaria de Monitoramento e Avaliação de Políticas Públicas limita-se à verificação de conformidade formal, documental e normativa do depósito, sem implicar avaliação do mérito metodológico ou chancela institucional das conclusões constantes do material.</p>
+<p>Art. 13. A gestão do Evidencia poderá suspender, restringir ou reclassificar conteúdo depositado quando:</p>
+<p>I - houver determinação legal, judicial ou de órgão competente;</p>
+<p>II - for constatada violação normativa, inclusive de proteção de dados;</p>
+<p>III - houver erro material relevante nos metadados ou nos arquivos; e</p>
+<p>IV - houver risco significativo de dano à administração pública, a terceiros ou à segurança da informação, mediante justificativa.</p>
+<p>CAPÍTULO VI</p>
+<p>DAS DISPOSIÇÕES FINAIS</p>
+<p>Art. 14. A gestão do Evidencia publicará, no prazo de até 120 (cento e vinte) dias, contado da data de publicação desta Portaria, guia de uso do Evidencia, contendo, no mínimo, informações sobre:</p>
+<p>I - uso operacional do Evidencia;</p>
+<p>II - padrões mínimos de metadados;</p>
+<p>III - instruções de depósito; e</p>
+<p>IV - orientações de anonimização e de boas práticas de proteção de dados.</p>
+<p>Parágrafo único. O guia de uso do Evidencia será aprovado formalmente pela Secretaria de Monitoramento e Avaliação de Políticas Públicas e disponibilizado no Evidencia.</p>
+<p>Art. 15. Os casos omissos serão dirimidos pela Secretaria de Monitoramento e Avaliação de Políticas Públicas.</p>
+<p>Art. 16. Esta Portaria entra em vigor na data de sua publicação.</p>
+<p>OTÁVIO AUGUSTO FERREIRA VENTURA</p>
+<p>ANEXO UNICO</p>
+<p>Modelo de termo de adesão</p>
+<p>TERMO DE ADESÃO N° [/ANO], QUE ENTRE SI CELEBRAM A UNIÃO, REPRESENTADA PELO MINISTÉRIO DO PLANEJAMENTO E ORÇAMENTO, POR INTERMÉDIO DA SECRETARIA DE MONITORAMENTO E AVALIAÇÃO DE POLÍTICAS PÚBLICAS, E O/A [ÓRGÃO/INSTITUIÇÃO ADERENTE], PARA OS FINS QUE ESPECIFICA.</p>
+<p>A UNIÃO, representada pelo MINISTÉRIO DO PLANEJAMENTO E ORÇAMENTO, por intermédio da SECRETARIA DE MONITORAMENTO E AVALIAÇÃO DE POLÍTICAS PÚBLICAS, com sede em [endereço], inscrito no CNPJ sob nº [ ], neste ato representado por [nome, cargo], e, de outro lado, [ÓRGÃO/INSTITUIÇÃO ADERENTE], [natureza jurídica], com sede em [endereço], inscrita no CNPJ sob nº [ ], neste ato representada por [nome, cargo], doravante denominada ADERENTE, resolvem celebrar o presente TERMO DE ADESÃO ("Termo"), mediante as cláusulas e condições a seguir.</p>
+<p>CLÁUSULA PRIMEIRA - DO OBJETO</p>
+<p>O presente Termo tem por objeto formalizar a adesão da ADERENTE ao Repositório de Evidências de Políticas Públicas - Evidencia, estabelecendo condições, responsabilidades e procedimentos para o depósito e disponibilização de pesquisa, estudo, avaliação ou produto analítico de políticas públicas no Evidencia.</p>
+<p>CLÁUSULA SEGUNDA - DAS COMPETÊNCIAS</p>
+<p>Compete à Secretaria de Monitoramento e Avaliação de Políticas Públicas, na qualidade de gestora do Evidencia:</p>
+<p>a) disponibilizar e manter o Evidencia operacional;</p>
+<p>b) realizar curadoria e definir ou manter padrões mínimos de metadados e formatos;</p>
+<p>c) quando aplicável, solicitar ajustes de metadados, esclarecimentos de conformidade e adequação de arquivos, como condição para publicação;</p>
+<p>d) aplicar regras de publicação e restrição de acesso em conformidade com a Lei de Acesso à Informação - LAI e com a Lei Geral de Proteção de Dados Pessoais - LGPD;</p>
+<p>e) promover a preservação digital, versionamento e registro de alterações, conforme política do Evidencia;</p>
+<p>f) priorizar a adoção de padrões de metadados, protocolos e APIs que possibilitem a troca automatizada de dados e a integração sistêmica; e</p>
+<p>g) apoiar a ADERENTE com orientações técnicas relacionadas ao depósito e ao preenchimento de metadados.</p>
+<p>Compete à ADERENTE:</p>
+<p>a) indicar representante institucional e depositantes habilitados, mantendo cadastro atualizado;</p>
+<p>b) garantir que os conteúdos depositados sejam pertinentes à finalidade do Evidencia e possuam método explicitado, autoria e informações mínimas;</p>
+<p>c) assegurar que possui autorização e titularidade necessárias para depositar e disponibilizar os materiais, inclusive direitos autorais e de terceiros;</p>
+<p>d) garantir que o depósito e a publicação respeitam a LAI, inclusive quanto a informações pessoais e restrições legais de acesso;</p>
+<p>e) depositar no Evidencia apenas documentos com acesso público, sem quaisquer informações submetidas à classificação ou à restrição de acesso;</p>
+<p>f) garantir conformidade com a LGPD, realizando, quando necessário, anonimização ou pseudonimização, minimização de dados, e indicando base legal e restrições aplicáveis;</p>
+<p>g) responder tempestivamente a solicitações de complementação ou retificação feitas pela Secretaria de Monitoramento e Avaliação de Políticas Públicas durante a curadoria;</p>
+<p>h) priorizar a adoção de padrões de metadados, protocolos e APIs que possibilitem a troca automatizada de dados e a integração sistêmica; e</p>
+<p>i) manter controle interno das versões publicadas e informar atualizações relevantes ao longo do tempo.</p>
+<p>CLÁUSULA TERCEIRA - DA CURADORIA</p>
+<p>A curadoria realizada pela Secretaria de Monitoramento e Avaliação de Políticas Públicas limita-se à verificação formal e de conformidade dos metadados, dos formatos, das condições de acesso e dos requisitos de proteção de dados, não representando validação metodológica ou endosso do conteúdo técnico-científico, permanecendo a responsabilidade da ADERENTE nos termos da Cláusula Segunda.</p>
+<p>CLÁUSULA QUARTA - DA PROTEÇÃO DE DADOS PESSOAIS E SEGURANÇA DA INFORMAÇÃO</p>
+<p>A ADERENTE declara que:</p>
+<p>a) realizou avaliação prévia do conteúdo para remover dados pessoais desnecessários;</p>
+<p>b) quando necessário, aplicou técnicas de anonimização ou pseudonimização; e</p>
+<p>c) os materiais depositados no Evidencia são de acesso público.</p>
+<p>A Secretaria de Monitoramento e Avaliação de Políticas Públicas poderá, diante de risco relevante, restringir temporariamente o acesso ao conteúdo até sua adequação, em observância às obrigações legais.</p>
+<p>CLÁUSULA QUINTA - DOS DIREITOS AUTORAIS, LICENCIAMENTO E USO DO CONTEÚDO</p>
+<p>A ADERENTE mantém a titularidade dos direitos sobre os materiais depositados, salvo disposição em contrário.</p>
+<p>Ao depositar conteúdo no Evidencia, a ADERENTE concede à Secretaria de Monitoramento e Avaliação de Políticas Públicas licença não exclusiva e gratuita, para hospedar, reproduzir, divulgar e preservar digitalmente o material no Evidencia.</p>
+<p>A licença concedida nos termos desta cláusula subsistirá durante a vigência deste Termo e, após seu encerramento, pelo período necessário à manutenção dos conteúdos já publicados no Evidencia, ressalvadas as hipóteses de retirada previstas neste instrumento.</p>
+<p>CLÁUSULA SEXTA - DA RETIFICAÇÃO, SUSPENSÃO E SUPRESSÃO DE CONTEÚDO</p>
+<p>A ADERENTE poderá solicitar retificação de metadados, substituição de arquivos ou inclusão de nova versão, indicando justificativa.</p>
+<p>A Secretaria de Monitoramento e Avaliação de Políticas Públicas poderá suspender ou suprimir conteúdo quando:</p>
+<p>a) houver determinação legal, judicial ou de órgão competente;</p>
+<p>b) for constatada violação normativa, inclusive de proteção de dados;</p>
+<p>c) houver erro material relevante nos metadados ou nos arquivos; e</p>
+<p>d) houver risco significativo de dano à administração pública, a terceiros ou à segurança da informação, mediante justificativa.</p>
+<p>A Secretaria de Monitoramento e Avaliação de Políticas Públicas comunicará à ADERENTE a suspensão ou supressão de conteúdo, solicitando manifestação ou saneamento, sempre que a natureza da ocorrência o permitir.</p>
+<p>A comunicação à ADERENTE pode ser dispensada ou postergada nas hipóteses em que houver determinação legal ou judicial ou necessidade de atuação imediata para evitar risco relevante à segurança, à proteção de dados ou a outros interesses juridicamente protegidos.</p>
+<p>CLÁUSULA SÉTIMA - DA GRATUIDADE</p>
+<p>O depósito de conteúdo terá caráter gratuito para a ADERENTE.</p>
+<p>Não haverá transferência de recursos financeiros entre as partes, para fins de execução do presente Termo.</p>
+<p>CLÁUSULA OITAVA - DA VIGÊNCIA</p>
+<p>Este Termo terá vigência de 60 (sessenta) meses, podendo ser renovado por igual período mediante termo aditivo simplificado.</p>
+<p>CLÁUSULA NONA - DA PUBLICIDADE</p>
+<p>A Secretaria de Monitoramento e Avaliação de Políticas Públicas publicará extrato do presente Termo, no Diário Oficial da União.</p>
+<p>CLÁUSULA DÉCIMA - DA GOVERNANÇA</p>
+<p>A ADERENTE designará responsável pelo acompanhamento da execução deste Termo de Adesão, que atuará como ponto focal para interlocução institucional com a Secretaria de Monitoramento e Avaliação de Políticas Públicas.</p>
+<p>As comunicações relativas à execução deste instrumento serão realizadas por meio formal que permita a comprovação de seu envio e recebimento, devendo os registros correspondentes ser mantidos para fins de rastreabilidade administrativa e acompanhamento das obrigações assumidas.</p>
+<p>Eventuais alterações dos responsáveis ou dos canais de comunicação deverão ser formalmente comunicadas à Secretaria de Monitoramento e Avaliação de Políticas Públicas.</p>
+<p>CLÁUSULA DÉCIMA PRIMEIRA - DA RESCISÃO E DENÚNCIA</p>
+<p>O Termo poderá ser rescindido:</p>
+<p>a) por acordo entre as partes;</p>
+<p>b) por denúncia unilateral, mediante notificação com antecedência mínima de 30 (trinta) dias;</p>
+<p>c) por descumprimento das obrigações.</p>
+<p>Em caso de rescisão, o conteúdo publicado poderá ser mantido no Evidencia para preservação histórica e transparência, ressalvadas hipóteses previstas na cláusula sexta ou decorrentes da solicitação expressa da ADERENTE para supressão do conteúdo publicado.</p>
+<p>CLÁUSULA DÉCIMA SEGUNDA - DA SOLUÇÃO DE CONTROVÉRSIAS</p>
+<p>Serão adotados mecanismos de prevenção e solução consensual de controvérsias existentes no âmbito da Advocacia-Geral da União, para dirimir controvérsias decorrentes deste Termo, quando não solucionadas administrativamente.</p>
+<p>E, por estarem de acordo, as partes assinam o presente Termo.</p>
+<p>Brasília-DF, ___ de __________ de 2026.</p>
+<p>Pela Secretaria de Monitoramento e Avaliação de Políticas Públicas:</p>
+<p>Nome:</p>
+<p>Cargo:</p>
+<p>Pela ADERENTE:</p>
+<p>Nome:</p>
+<p>Cargo:</p>]]></content:encoded>
+    <category domain="origem">coleta de edições e seções</category>
+    <category>Seção 1 — Edição Extra</category>
+    <category>Portaria</category>
+    <category>Ministério do Planejamento e Orçamento</category>
+    <category>Secretaria de Monitoramento e Avaliação de Políticas Públicas</category>
+  </item>
+  <item>
+    <title>PORTARIA STN/MF Nº 3.234, DE 5 DE NOVEMBRO DE 2026</title>
+    <link>https://www.in.gov.br/web/dou/-/portaria-stn/mf-n-3.234-de-5-de-novembro-de-2026-742340850</link>
+    <guid isPermaLink="true">https://www.in.gov.br/web/dou/-/portaria-stn/mf-n-3.234-de-5-de-novembro-de-2026-742340850</guid>
+    <pubDate>Fri, 06 Nov 2026 08:00:00 -0300</pubDate>
+    <description>[Seção 1 — Edição Extra | Edição 209-B | Pág. 4 | Portaria] Ministério da Fazenda/Secretaria do Tesouro Nacional — PORTARIA STN/MF Nº 3.234, DE 5 DE NOVEMBRO DE 2026 Prorroga, exclusivamente para o exercício de 2026, o prazo para apresentação das versões definitivas do Programa de Reestruturação e de Ajuste Fiscal e do Programa de Acompanhamento e Transparência Fiscal, e o prazo para conversão dos programas, bem como posterga a aplicação de critérios previstos na Portaria STN/MF nº 857, de 27 de março de 2026....</description>
+    <content:encoded><![CDATA[<p><em>Seção 1 — Edição Extra | Edição 209-B | Pág. 4 | Ministério da Fazenda/Secretaria do Tesouro Nacional</em></p><p>PORTARIA STN/MF Nº 3.234, DE 5 DE NOVEMBRO DE 2026</p>
+<p>Prorroga, exclusivamente para o exercício de 2026, o prazo para apresentação das versões definitivas do Programa de Reestruturação e de Ajuste Fiscal e do Programa de Acompanhamento e Transparência Fiscal, e o prazo para conversão dos programas, bem como posterga a aplicação de critérios previstos na Portaria STN/MF nº 857, de 27 de março de 2026.</p>
+<p>O SECRETÁRIO DO TESOURO NACIONAL, no uso das atribuições que lhe conferem a Lei Complementar nº 156, de 28 de dezembro de 2016, a Lei Complementar nº 159, de 19 de maio de 2017, a Lei Complementar nº 178, de 13 de janeiro de 2021, o Decreto nº 10.681 de 20 de abril de 2021, o Decreto nº 10.819, de 27 de setembro de 2021, o Decreto nº 8.616, de 29 de dezembro de 2015, a Portaria MF nº 1.583, de 13 de dezembro de 2023, e a Portaria STN/MF nº 857, de 27 de março de 2026, resolve:</p>
+<p>Art. 1º Exclusivamente para o exercício de 2026, fica prorrogado até 30 de novembro o prazo para apresentação da versão definitiva do Programa de Acompanhamento e Transparência Fiscal e do Programa de Reestruturação e de Ajuste Fiscal, previsto, respectivamente, no art. 1º, inciso II, e no art. 9º, inciso III, da Portaria STN/MF nº 857, de 27 de março de 2026.</p>
+<p>Art. 2º A Portaria Normativa STN/MF nº 857, de 27 de março de 2026, passa a vigorar com as seguintes alterações:</p>
+<p>"Art. 55. ............................................................................................................</p>
+<p>...........................................................................................................................</p>
+<p>§1º ....................................................................................................................</p>
+<p>...........................................................................................................................</p>
+<p>b) em 0,25% (vinte e cinco centésimos por cento) da RCL para cada meta estabelecida no âmbito do Programa de Reestruturação e de Ajuste Fiscal cumprida pelo ente referente ao exercício de 2025, caso ele realize a conversão em Programa de Acompanhamento e Transparência Fiscal até 30 de novembro de 2026." (NR)</p>
+<p>"Art. 55-A. As regras de projeções fiscais dispostas no art. 10 aplicam-se às revisões do Programa de Reestruturação e de Ajuste Fiscal realizadas a partir de 2027." (NR)</p>
+<p>Art. 3º Esta Portaria entra em vigor na data de sua publicação.</p>
+<p>DANIEL CARDOSO LEAL</p>]]></content:encoded>
+    <category domain="origem">coleta de edições e seções</category>
+    <category>Seção 1 — Edição Extra</category>
+    <category>Portaria</category>
+    <category>Ministério da Fazenda</category>
+    <category>Secretaria do Tesouro Nacional</category>
+  </item>
+  <item>
+    <title>DESPACHO DO PRESIDENTE DA REPÚBLICA</title>
+    <link>https://www.in.gov.br/web/dou/-/despacho-do-presidente-da-republica-742408603</link>
+    <guid isPermaLink="true">https://www.in.gov.br/web/dou/-/despacho-do-presidente-da-republica-742408603</guid>
+    <pubDate>Fri, 06 Nov 2026 08:00:00 -0300</pubDate>
+    <description>[Seção 1 — Edição Extra | Edição 209-A | Pág. 3 | Mensagem] Presidência da República — DESPACHO DO PRESIDENTE DA REPÚBLICA MENSAGEM Nº 842, de 6 de novembro de 2026. Senhor Presidente do Senado Federal, Comunico a Vossa Excelência que, nos termos previstos no § 1º do art. 66 da Constituição, decidi vetar parcialmente, por contrariedade ao interesse público, o Projeto de Lei de Conversão nº 14, de 2026 (Medida Provisória nº 1.370, de 19 de junho de 2026), que "Institui o Exame Nacion...</description>
+    <content:encoded><![CDATA[<p><em>Seção 1 — Edição Extra | Edição 209-A | Pág. 3 | Presidência da República</em></p><p>DESPACHO DO PRESIDENTE DA REPÚBLICA</p>
+<p>MENSAGEM</p>
+<p>Nº 842, de 6 de novembro de 2026.</p>
+<p>Senhor Presidente do Senado Federal,</p>
+<p>Comunico a Vossa Excelência que, nos termos previstos no § 1º do art. 66 da Constituição, decidi vetar parcialmente, por contrariedade ao interesse público, o Projeto de Lei de Conversão nº 14, de 2026 (Medida Provisória nº 1.370, de 19 de junho de 2026), que "Institui o Exame Nacional de Avaliação da Formação Médica; e altera as Leis nºs 12.871, de 22 de outubro de 2013, 3.268, de 30 de setembro de 1957, 6.932, de 7 de julho de 1981, 13.959, de 18 de dezembro de 2019, e 10.861, de 14 de abril de 2004.".</p>
+<p>Ouvidos, o Ministério da Saúde, o Ministério da Educação e o Ministério do Planejamento e Orçamento manifestaram-se pelo veto ao seguinte dispositivo do Projeto de Lei de Conversão:</p>
+<p><strong>Art. 9º do Projeto de Lei de Conversão</strong></p>
+<p>"Art. 9º O<em>caput</em>do art. 2º da Lei nº 12.871, de 22 de outubro de 2013, passa a vigorar acrescido do seguinte inciso VII:</p>
+<p>'Art. 2º ...................................................................................................................</p>
+<p>...........................................................................................................................................</p>
+<p>VII - estabelecimento de contrapartidas a serem concedidas por instituições que ofertem cursos de Medicina que utilizem a estrutura e os serviços de saúde pública do SUS para a realização de estágios curriculares obrigatórios e demais atividades formativas práticas, as quais podem assumir natureza financeira, assistencial, estrutural, educacional, científica ou de desenvolvimento profissional, a serem formalizadas por meio de Contrato Organizativo da Ação Pública Ensino-Saúde, conforme diretrizes estabelecidas em ato conjunto do Ministro de Estado da Educação e do Ministro de Estado da Saúde, limitada a contrapartida para todos os serviços utilizados ao valor global de 2% (dois por cento) do faturamento líquido do curso, rateado proporcionalmente entre os entes e os estabelecimentos.' (NR)"</p>
+<p><strong>Razão do veto</strong></p>
+<p>"A proposição legislativa contraria o interesse público, uma vez que fragiliza a pactuação entre instituições de ensino e gestores do Sistema Único de Saúde - SUS e compromete a definição de contrapartidas compatíveis com a utilização efetiva dos serviços, com os custos envolvidos e com as necessidades de cada território. Ademais, a imposição de limite financeiro uniforme compromete a equidade entre as instituições."</p>
+<p>Essas, Senhor Presidente, são as razões que me conduziram a vetar os dispositivos mencionados do Projeto de Lei de Conversão em causa, as quais submeto à elevada apreciação dos Senhores Membros do Congresso Nacional.</p>]]></content:encoded>
+    <category domain="origem">coleta de edições e seções</category>
+    <category>Seção 1 — Edição Extra</category>
+    <category>Mensagem</category>
+    <category>Presidência da República</category>
+  </item>
+  <item>
+    <title>DESPACHO DO PRESIDENTE DA REPÚBLICA</title>
+    <link>https://www.in.gov.br/web/dou/-/despacho-do-presidente-da-republica-742408580</link>
+    <guid isPermaLink="true">https://www.in.gov.br/web/dou/-/despacho-do-presidente-da-republica-742408580</guid>
+    <pubDate>Fri, 06 Nov 2026 08:00:00 -0300</pubDate>
+    <description>[Seção 1 — Edição Extra | Edição 209-A | Pág. 3 | Mensagem] Presidência da República — DESPACHO DO PRESIDENTE DA REPÚBLICA MENSAGEM Nº 841, de 6 de novembro de 2026. Encaminhamento ao Congresso Nacional da proposta de modificação do Projeto de Lei nº 19, de 2026-CN, que "Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Educação, da Justiça e Segurança Pública e dos Transportes, crédito especial no valor de R$ 80.041.737,00, para os fins que especifica.".</description>
+    <content:encoded><![CDATA[<p><em>Seção 1 — Edição Extra | Edição 209-A | Pág. 3 | Presidência da República</em></p><p>DESPACHO DO PRESIDENTE DA REPÚBLICA</p>
+<p>MENSAGEM</p>
+<p>Nº 841, de 6 de novembro de 2026. Encaminhamento ao Congresso Nacional da proposta de modificação do Projeto de Lei nº 19, de 2026-CN, que "Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Educação, da Justiça e Segurança Pública e dos Transportes, crédito especial no valor de R$ 80.041.737,00, para os fins que especifica.".</p>]]></content:encoded>
+    <category domain="origem">coleta de edições e seções</category>
+    <category>Seção 1 — Edição Extra</category>
+    <category>Mensagem</category>
+    <category>Presidência da República</category>
+  </item>
+  <item>
+    <title>DECRETO Nº 13.152, DE 6 DE NOVEMBRO DE 2026</title>
+    <link>https://www.in.gov.br/web/dou/-/decreto-n-13.152-de-6-de-novembro-de-2026-742408447</link>
+    <guid isPermaLink="true">https://www.in.gov.br/web/dou/-/decreto-n-13.152-de-6-de-novembro-de-2026-742408447</guid>
+    <pubDate>Fri, 06 Nov 2026 08:00:00 -0300</pubDate>
+    <description>[Seção 1 — Edição Extra | Edição 209-A | Pág. 2 | Decreto numerado] Atos do Poder Executivo — DECRETO Nº 13.152, DE 6 DE NOVEMBRO DE 2026 Altera o Decreto nº 10.819, de 27 de setembro de 2021, que regulamenta o disposto na Lei Complementar nº 178, de 13 de janeiro de 2021, e no art. 2º da Lei nº 9.496, de 11 de setembro de 1997, e o Decreto nº 12.433, de 14 de abril de 2025, que regulamenta o Programa de Pleno Pagamento de Dívidas dos Estados - Propag. O PRESIDENTE DA REPÚBLICA, no uso de ...</description>
+    <content:encoded><![CDATA[<p><em>Seção 1 — Edição Extra | Edição 209-A | Pág. 2 | Atos do Poder Executivo</em></p><p><strong>DECRETO Nº 13.152, DE 6 DE NOVEMBRO DE 2026</strong></p>
+<p>Altera o Decreto nº 10.819, de 27 de setembro de 2021, que regulamenta o disposto na Lei Complementar nº 178, de 13 de janeiro de 2021, e no art. 2º da Lei nº 9.496, de 11 de setembro de 1997, e o Decreto nº 12.433, de 14 de abril de 2025, que regulamenta o Programa de Pleno Pagamento de Dívidas dos Estados - Propag.</p>
+<p><strong>O PRESIDENTE DA REPÚBLICA</strong>, no uso de suas atribuições que confere o art. 84,<em>caput</em>, incisos IV e VI, alínea "a", da Constituição, e tendo em vista o disposto na Lei Complementar nº 178, de 13 de janeiro de 2021, e na Lei Complementar nº 212, de 13 de janeiro de 2025,</p>
+<p><strong>D E C R E T A :</strong></p>
+<p>Art. 1º O Decreto nº 10.819, de 27 de setembro de 2021, passa a vigorar com as seguintes alterações:</p>
+<p>"Art. 6º ..................................................................................................................</p>
+<p>..........................................................................................................................................</p>
+<p>§ 3º Os entes federativos que aderiram ao Programa de Acompanhamento e Transparência Fiscal - PAFT como requisito para adesão ao Programa de Equilíbrio Fiscal - PEF terão o PAFT encerrado com o encerramento do PEF, desde que não se enquadrem no disposto no inciso I do<em>caput</em>." (NR)</p>
+<p>Art. 2º O Decreto nº 12.433, de 14 de abril de 2025, passa a vigorar com as seguintes alterações:</p>
+<p>"Art. 41. ..................................................................................................................</p>
+<p>...........................................................................................................................................</p>
+<p>VI - não comprovar a aplicação dos recursos, incluídos aqueles recebidos do FEF, observadas as finalidades de que trata o art. 5º, § 2º, da Lei Complementar nº 212, de 13 de janeiro de 2025, nos termos do disposto no art. 64 deste Decreto, em especial em seu § 4º; ou</p>
+<p>................................................................................................................................." (NR)</p>
+<p>"Art. 45. .................................................................................................................</p>
+<p>..........................................................................................................................................</p>
+<p>§ 3º Aos aportes ao FEF será aplicado o índice percentual devido em montante proporcional ao número de dias corridos em que será aplicada a taxa de juros reduzida no âmbito do Propag no exercício, a partir da data de assinatura do termo aditivo, nos termos do disposto no estatuto do Fundo.</p>
+<p>..........................................................................................................................................</p>
+<p>§ 6º Na hipótese de o aporte anual ao FEF superar ou ser inferior ao valor efetivamente devido pelo Estado, nos termos do disposto neste artigo, a diferença deverá ser, respectivamente, descontada ou complementada do valor devido pelo respectivo ente federativo no aporte relativo ao ano subsequente, exceto na hipótese prevista no art. 7º, § 6º.</p>
+<p>§ 7º A diferença de que trata o § 6º será corrigida pelos mesmos encargos incidentes sobre a dívida do Estado até a data do novo aporte." (NR)</p>
+<p>"Art. 50. Caberá à instituição administradora do FGF aplicar as restrições de que trata o art. 48, § 4º, e comunicar à Secretaria do Tesouro Nacional as restrições aplicadas.</p>
+<p>................................................................................................................................." (NR)</p>
+<p>"Art. 62. Em até noventa dias após o encerramento de cada exercício, as instituições administradoras do FEF, de que trata o art. 44, e do FGF, de que trata o art. 48, deverão enviar relatório à Secretaria do Tesouro Nacional contendo, no mínimo:</p>
+<p>I - os aportes anuais devidos e realizados pelos Estados; e</p>
+<p>II - as posições de cada Estado em relação ao FGF e em relação ao disposto no art. 48, § 4º." (NR)</p>
+<p>"Art. 64. ..................................................................................................................</p>
+<p>...........................................................................................................................................</p>
+<p>§ 5º A obrigação a que se refere o<em>caput</em>passará a incidir a partir do encerramento do exercício da assinatura do primeiro termo aditivo do Propag." (NR)</p>
+<p>"Art. 66. ..................................................................................................................</p>
+<p>...........................................................................................................................................</p>
+<p>§ 2º A aplicação em investimentos será feita adotando-se o índice percentual devido em montante proporcional ao número de meses em que será aplicada a taxa de juros reduzida no âmbito do Propag no exercício, de acordo com a data da assinatura do termo aditivo.</p>
+<p>§ 3º Relativamente aos recursos do exercício de 2025, na hipótese de os valores efetivamente investidos pelo Estado superarem ou serem inferiores aos valores que devem ser aplicados nos termos do disposto neste artigo, a diferença deverá ser, respectivamente, descontada ou complementada nos investimentos a serem realizados no ano subsequente, exceto na hipótese prevista no art. 7º, § 6º.</p>
+<p>§ 4º A diferença de que trata o § 3º será corrigida pelos mesmos encargos incidentes sobre a dívida do Estado até a data da aplicação dos investimentos." (NR)</p>
+<p>"Art. 66-A. A partir de 1º de janeiro de 2026, as aplicações anuais nos investimentos de que trata o art. 5º, § 2º, da Lei Complementar nº 212, de 13 de janeiro de 2025, deverão ser realizadas até 31 de dezembro do respectivo exercício.</p>
+<p>Parágrafo único. A aplicação em investimentos será feita adotando-se o índice percentual devido em montante proporcional ao número de meses em que será aplicada a taxa de juros reduzida no âmbito do Propag no exercício, de acordo com a data da assinatura do termo aditivo." (NR)</p>
+<p>"Art. 79. ..................................................................................................................</p>
+<p>Parágrafo único. A carência de até vinte e quatro meses prevista no<em>caput</em><strong></strong>poderá ser aplicada às operações de crédito que tenham obtido, no exercício de 2026, parecer favorável da Secretaria do Tesouro Nacional quanto ao cumprimento dos limites e das condições para sua contratação, e cuja contratação não tenha sido formalizada naquele exercício, desde que seja efetivada até 31 de dezembro de 2027." (NR)</p>
+<p>Art. 3º A revogação de que trata o art. 4º,<em>caput</em>, inciso II, produz efeitos administrativos a partir de 1º de dezembro de 2025.</p>
+<p>Art. 4º Ficam revogados os seguintes dispositivos:</p>
+<p>I - o § 5º do art. 14 do Decreto nº 10.819, de 27 de setembro de 2021; e</p>
+<p>II - o § 1º do art. 66 do Decreto nº 12.433, de 14 de abril de 2025.</p>
+<p>Art. 5º Este Decreto entra em vigor na data de sua publicação.</p>
+<p>Brasília, 6 de novembro de 2026; 205º da Independência e 138º da República.</p>
+<p>LUIZ INÁCIO LULA DA SILVA</p>
+<p>Dario Carnevalli Durigan</p>]]></content:encoded>
+    <category domain="origem">coleta de edições e seções</category>
+    <category>Seção 1 — Edição Extra</category>
+    <category>Decreto numerado</category>
+    <category>Atos do Poder Executivo</category>
+  </item>
+  <item>
+    <title>LEI Nº 15.527, DE 6 DE NOVEMBRO DE 2026</title>
+    <link>https://www.in.gov.br/web/dou/-/lei-n-15.527-de-6-de-novembro-de-2026-742408362</link>
+    <guid isPermaLink="true">https://www.in.gov.br/web/dou/-/lei-n-15.527-de-6-de-novembro-de-2026-742408362</guid>
+    <pubDate>Fri, 06 Nov 2026 08:00:00 -0300</pubDate>
+    <description>[Seção 1 — Edição Extra | Edição 209-A | Pág. 1 | Lei] Atos do Poder Legislativo — LEI Nº 15.527, DE 6 DE NOVEMBRO DE 2026 Institui o Exame Nacional de Avaliação da Formação Médica; e altera as Leis nºs 12.871, de 22 de outubro de 2013, 3.268, de 30 de setembro de 1957, 6.932, de 7 de julho de 1981, 13.959, de 18 de dezembro de 2019, e 10.861, de 14 de abril de 2004. O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei: Art. 1º Esta ...</description>
+    <content:encoded><![CDATA[<p><em>Seção 1 — Edição Extra | Edição 209-A | Pág. 1 | Atos do Poder Legislativo</em></p><p>LEI Nº 15.527, DE 6 DE NOVEMBRO DE 2026</p>
+<p>Institui o Exame Nacional de Avaliação da Formação Médica; e altera as Leis nºs 12.871, de 22 de outubro de 2013, 3.268, de 30 de setembro de 1957, 6.932, de 7 de julho de 1981, 13.959, de 18 de dezembro de 2019, e 10.861, de 14 de abril de 2004.</p>
+<p><strong>O PRESIDENTE DA REPÚBLICA</strong></p>
+<p>Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:</p>
+<p>Art. 1º Esta Lei institui o Exame Nacional de Avaliação da Formação Médica e altera as Leis nºs 12.871, de 22 de outubro de 2013, 3.268, de 30 de setembro de 1957, 6.932, de 7 de julho de 1981, 13.959, de 18 de dezembro de 2019, e 10.861, de 14 de abril de 2004.</p>
+<p>Art. 2º Fica instituído o Exame Nacional de Avaliação da Formação Médica (Enamed), com a finalidade de aferir a proficiência dos estudantes de graduação em Medicina e avaliar os cursos de graduação em Medicina.</p>
+<p>§ 1º Os médicos com diploma reconhecido nacionalmente e obtido anteriormente à data de publicação da Medida Provisória nº 1.370, de 19 de junho de 2026, não serão submetidos à realização do Enamed.</p>
+<p>§ 2º Os médicos formados em instituições estrangeiras que tenham sido aprovados na primeira etapa do Exame Nacional de Revalidação de Diplomas Médicos Expedidos por Instituição de Educação Superior Estrangeira (Revalida) até a data de publicação da Medida Provisória nº 1.370, de 19 de junho de 2026, não serão submetidos à realização do Enamed e permanecerão habilitados à realização do exame de habilidades clínicas nas 2 (duas) edições seguintes do Revalida, nos termos do § 6º do art. 2º da Lei nº 13.959, de 18 de dezembro de 2019.</p>
+<p>Art. 3º São objetivos do Enamed:</p>
+<p>I - verificar a aquisição de conteúdos, habilidades e competências definidos nas diretrizes curriculares nacionais do curso de graduação em Medicina, com vistas à formação profissional compatível com os princípios e as necessidades do Sistema Único de Saúde (SUS);</p>
+<p>II - contribuir para a avaliação da formação médica no País;</p>
+<p>III - fornecer subsídios para a formulação e a avaliação de políticas públicas relacionadas à formação médica;</p>
+<p>IV - auxiliar na avaliação, na regulação e na supervisão dos cursos de graduação em Medicina, nos termos da Lei nº 10.861, de 14 de abril de 2004; e</p>
+<p>V - aferir a proficiência do estudante concluinte do curso de graduação em Medicina no domínio das competências profissionais mínimas exigidas para o exercício seguro da profissão médica, mediante metodologia técnica previamente publicada e baseada em critérios objetivos de avaliação.</p>
+<p>Art. 4º O Enamed será aplicado pelo Ministério da Educação aos estudantes do curso de graduação em Medicina, observado o momento formativo correspondente a cada etapa, e compreenderá:</p>
+<p>I - a primeira etapa, realizada ao fim do quarto semestre de graduação;</p>
+<p>II - a segunda etapa, realizada ao fim do oitavo semestre de graduação, anteriormente ao ingresso do estudante no internato; e</p>
+<p>III - a terceira etapa, realizada ao fim do décimo segundo semestre de graduação.</p>
+<p>§ 1º A aplicação do Enamed nas etapas de que trata o<em>caput</em>deste artigo considerará, entre outros, aspectos curriculares e pedagógicos.</p>
+<p>§ 2º O Enamed será realizado semestralmente, com aplicação descentralizada no Distrito Federal e nos Municípios que ofertem cursos de graduação em Medicina.</p>
+<p>§ 3º A realização das etapas do Enamed constitui componente curricular obrigatório do curso de graduação em Medicina.</p>
+<p>§ 4º O desempenho nas avaliações seriadas será apurado mediante média de desempenho acumulado, assegurada à terceira etapa avaliativa maior peso em relação às etapas anteriores, observados os critérios de aprovação definidos em ato da Comissão Nacional de Avaliação da Formação Médica, prevista no art. 5º desta Lei, que estabelecerá o desempenho mínimo exigido, os pesos específicos de cada etapa e as formas de composição do resultado final.</p>
+<p>§ 5º A nota individual de cada etapa do Enamed será informada exclusivamente ao participante e, em caráter restrito, à sua instituição de educação superior, vedada a divulgação nominal da nota a terceiros.</p>
+<p>§ 6º A primeira média de desempenho acumulado obtida nas 3 (três) etapas do Enamed constará do histórico escolar do estudante concluinte.</p>
+<p>§ 7º A obtenção de nível proficiente no resultado final do Enamed será requisito obrigatório para o exercício profissional da Medicina.</p>
+<p>§ 8º O participante que não obtiver nível proficiente após o resultado final do Enamed poderá refazer a terceira etapa do exame em edições subsequentes, hipótese em que o resultado final será recalculado na forma do ato de que trata o § 4º deste artigo.</p>
+<p>§ 9º O disposto no § 7º deste artigo não se aplica aos estudantes que estiverem matriculados no curso de graduação em Medicina no País anteriormente à data de publicação da Medida Provisória nº 1.370, de 19 de junho de 2026, os quais permanecerão submetidos às normas vigentes à época de seu ingresso na instituição de ensino superior.</p>
+<p>§ 10. O Ministério da Educação divulgará anualmente, por instituição de ensino superior, os resultados consolidados do Enamed, que permanecerão disponíveis em portal eletrônico de acesso público pelo prazo mínimo de 10 (dez) anos, assegurada a preservação da identidade individual dos participantes.</p>
+<p>§ 11. As instituições de ensino superior que ofertem curso de Medicina deverão disponibilizar, em seus sítios eletrônicos oficiais e em material institucional destinado a candidatos, os resultados obtidos nas 3 (três) últimas edições do Enamed.</p>
+<p>§ 12. Os resultados obtidos pelos estudantes em quaisquer etapas do Enamed poderão ser utilizados pelas instituições de educação superior como instrumentos integrantes de seus processos de avaliação acadêmica, observadas as Diretrizes Curriculares Nacionais do Curso de Graduação em Medicina, o projeto pedagógico do curso e os regulamentos institucionais.</p>
+<p>Art. 5º Ato do Ministro de Estado da Educação instituirá a Comissão Nacional de Avaliação da Formação Médica, com função deliberativa, para o acompanhamento do Enamed, composta de:</p>
+<p>I - 2 (dois) representantes indicados pelo Ministério da Educação;</p>
+<p>II - 2 (dois) representantes indicados pelo Ministério da Saúde; e</p>
+<p>III - 4 (quatro) representantes indicados pelo Conselho Federal de Medicina.</p>
+<p>§ 1º Os membros da Comissão Nacional de Avaliação da Formação Médica serão designados anualmente, e a presidência será exercida pelo mesmo prazo, de forma alternada entre os representantes indicados pelo governo e pelo Conselho Federal de Medicina, cabendo ao presidente o voto de qualidade em caso de empate.</p>
+<p>§ 2º Compete à Comissão Nacional de Avaliação da Formação Médica, para o acompanhamento do Enamed:</p>
+<p>I - estabelecer as diretrizes gerais do Enamed, inclusive quanto aos objetivos da avaliação, às matrizes gerais de referência, aos critérios gerais de proficiência e aos parâmetros metodológicos e operacionais comuns às diferentes etapas do exame;</p>
+<p>II - definir os critérios técnicos para a elaboração, a aplicação e a operacionalização do Enamed, observado o disposto na legislação aplicável;</p>
+<p>III - acompanhar a implementação do Enamed e avaliar periodicamente seus resultados;</p>
+<p>IV - estabelecer os critérios e os procedimentos para certificação da obtenção de nível proficiente no Enamed e para a transmissão segura das informações necessárias à instrução dos pedidos de inscrição nos Conselhos Regionais de Medicina;</p>
+<p>V - assegurar a articulação entre a avaliação da formação médica e os requisitos para o exercício profissional; e</p>
+<p>VI - propor aperfeiçoamentos metodológicos e operacionais, respeitadas as competências legais do Ministério da Educação.</p>
+<p>§ 3º Os demais atos necessários à criação e ao pleno funcionamento da Comissão Nacional de Avaliação da Formação Médica serão estabelecidos em ato conjunto do Ministério da Educação, do Ministério da Saúde e do Conselho Federal de Medicina.</p>
+<p>§ 4º A Comissão Nacional de Avaliação da Formação Médica poderá convidar, em caráter consultivo, outros representantes do poder público e entidades da sociedade civil representativas da medicina e da educação, a fim de contribuir com o exercício de suas competências.</p>
+<p>§ 5º Caberá à Comissão Nacional de Avaliação da Formação Médica deliberar sobre matérias de caráter geral, sobre questões que envolvam mais de uma etapa da formação médica e sobre propostas de alteração das diretrizes gerais, dos critérios comuns ou da metodologia global do Enamed.</p>
+<p>§ 6º A Comissão Nacional de Avaliação da Formação Médica poderá determinar, mediante decisão fundamentada, a revisão de deliberação de subcomissão técnica quando identificar incompatibilidade com as diretrizes gerais do Enamed, desconformidade legal ou repercussão relevante sobre outras etapas da avaliação, assegurada a manifestação prévia da subcomissão competente.</p>
+<p>§ 7º Para o exercício de suas competências, a Comissão Nacional de Avaliação da Formação Médica contará com 3 (três) subcomissões técnicas deliberativas, assim distribuídas:</p>
+<p>I - Subcomissão Técnica da Avaliação do quarto semestre do curso de Medicina, composta de 4 (quatro) representantes indicados pelo Ministério da Educação, 1 (um) representante indicado pelo Ministério da Saúde e 1 (um) representante indicado pelo Conselho Federal de Medicina;</p>
+<p>II - Subcomissão Técnica da Avaliação do oitavo semestre do curso de Medicina, composta de 4 (quatro) representantes indicados pelo Ministério da Educação, 1 (um) representante indicado pelo Ministério da Saúde e 1 (um) representante indicado pelo Conselho Federal de Medicina; e</p>
+<p>III - Subcomissão Técnica da Avaliação do décimo segundo semestre do curso de Medicina, composta de 4 (quatro) representantes indicados pelo Conselho Federal de Medicina, 1 (um) representante indicado pelo Ministério da Educação e 1 (um) representante indicado pelo Ministério da Saúde.</p>
+<p>§ 8º Compete às subcomissões técnicas deliberativas, no âmbito de suas respectivas avaliações:</p>
+<p>I - definir, de forma específica, os conteúdos a serem avaliados em cada etapa da formação médica, em consonância com as diretrizes gerais e as matrizes gerais de referência aprovadas pela Comissão Nacional;</p>
+<p>II - definir e aprovar as especificações técnicas e pedagógicas dos instrumentos de avaliação, incluídos a distribuição dos conteúdos, as competências e habilidades a serem aferidas, os níveis de complexidade e os demais parâmetros necessários à elaboração das provas;</p>
+<p>III - revisar e aprovar eventuais propostas de alteração dos conteúdos e das especificações técnicas das respectivas avaliações;</p>
+<p>IV - propor à Comissão Nacional de Avaliação da Formação Médica aperfeiçoamentos nos conteúdos e nas especificações técnicas, respeitadas as diretrizes gerais e os parâmetros comuns do Enamed; e</p>
+<p>V - aprovar e encaminhar à Comissão Nacional de Avaliação da Formação Médica relatórios técnicos relativos à respectiva avaliação, inclusive recomendações que envolvam alterações nas diretrizes gerais, nos critérios comuns ou na metodologia global do Enamed.</p>
+<p>§ 9º As subcomissões técnicas deliberativas exercerão suas competências com autonomia decisória quanto à definição e à aprovação dos conteúdos e das especificações técnicas de suas avaliações, observadas as diretrizes gerais e os parâmetros comuns estabelecidos pela Comissão Nacional de Avaliação da Formação Médica, cujas deliberações serão obrigatórias no âmbito de suas competências.</p>
+<p>§ 10. A designação dos integrantes, os requisitos de qualificação técnica, a coordenação, o quórum de instalação e de deliberação, os critérios de votação, os procedimentos para registro e publicidade das decisões, ressalvadas as informações protegidas, e os demais aspectos de funcionamento das subcomissões técnicas deliberativas serão disciplinados no ato conjunto previsto no § 3º deste artigo, assegurada a efetividade de suas competências decisórias.</p>
+<p>§ 11. Os integrantes da Comissão Nacional de Avaliação da Formação Médica e das subcomissões técnicas deliberativas estarão sujeitos à apresentação de declaração de ausência de conflito de interesses, bem como aos deveres de confidencialidade e às demais regras aplicáveis à proteção dos instrumentos de avaliação e à integridade do Enamed, na forma da legislação aplicável.</p>
+<p>§ 12. As decisões da Comissão Nacional de Avaliação da Formação Médica e das subcomissões técnicas deliberativas deverão respeitar as competências legais do Ministério da Educação, do Ministério da Saúde, do Conselho Federal de Medicina e dos Conselhos Regionais de Medicina, vedada a substituição das atribuições próprias de cada órgão.</p>
+<p>§ 13. A participação na Comissão Nacional de Avaliação da Formação Médica e nas subcomissões técnicas deliberativas será considerada prestação de serviço público relevante, não remunerada.</p>
+<p>Art. 6º Ao curso de graduação em Medicina será atribuído conceito anual, calculado com base na proporção de estudantes que atingiram o nível proficiente nas edições de terceira etapa realizadas no referido ano.</p>
+<p>§ 1º O conceito insatisfatório do curso ensejará a instauração de processo de supervisão e aplicação das medidas previstas no art. 46 da Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), e no art. 10 da Lei nº 10.861, de 14 de abril de 2004, na forma estabelecida em ato do Ministro de Estado da Educação.</p>
+<p>§ 2º Os órgãos responsáveis pela regulação e pela supervisão da educação superior nos Estados e no Distrito Federal serão responsáveis pela adoção das medidas de supervisão previstas neste artigo destinadas às instituições vinculadas aos respectivos sistemas de ensino.</p>
+<p>Art. 7º A aplicação do Enamed assegurará acessibilidade, atendimento especializado e adaptações razoáveis aos participantes que delas necessitem, nos termos da legislação e do regulamento, bem como reaplicação, sem ônus adicional, nas hipóteses de caso fortuito, força maior ou falha operacional imputável à Administração.</p>
+<p>Art. 8º Os campos de prática utilizados para a formação médica no âmbito do SUS observarão parâmetros nacionais de capacidade formadora, incluídos limites máximos de estudantes por leito, equipe de saúde da família, ambulatório, unidade assistencial e preceptor, a serem definidos em regulamento.</p>
+<p>Art. 9º (VETADO).</p>
+<p>Art. 10. A Lei nº 3.268, de 30 de setembro de 1957, passa a vigorar com as seguintes alterações:</p>
+<p>"Art. 17-A. A obtenção de nível proficiente no resultado final do Exame Nacional de Avaliação da Formação Médica (Enamed) será requisito obrigatório para realizar a inscrição de que trata o art. 17 desta Lei, aplicável aos estudantes que ingressarem no curso de graduação em Medicina a partir da data de publicação da Medida Provisória nº 1.370, de 19 de junho de 2026.</p>
+<p>§ 1º A comprovação da obtenção de nível proficiente será realizada por meio de certificado eletrônico emitido pelo Ministério da Educação, diretamente ou por intermédio do órgão ou da entidade responsável pela aplicação do Enamed.</p>
+<p>§ 2º O certificado eletrônico de que trata o § 1º deste artigo será disponibilizado ao interessado e, mediante consulta eletrônica segura, aos Conselhos Regionais de Medicina, exclusivamente para fins de instrução e de análise do pedido de inscrição profissional.</p>
+<p>§ 3º A consulta prevista no § 2º deste artigo limitar-se-á à confirmação do atendimento do requisito de proficiência, observados os princípios da finalidade, da necessidade, da segurança e da prevenção, nos termos da Lei nº 13.709, de 14 de agosto de 2018."</p>
+<p>"Art. 18-A. O egresso do curso de Medicina que não obtiver nível proficiente no resultado final do Enamed poderá requerer perante o Conselho Regional de Medicina a Inscrição de Egresso de Medicina (IEM), com validade restrita e finalidade exclusivamente técnico-científica, ficando expressamente vedado:</p>
+<p>I - o exercício de qualquer ato privativo de médico, nos termos da Lei nº 12.842, de 10 de julho de 2013;</p>
+<p>II - a prestação direta ou indireta de assistência ou cuidados a pacientes, em ambiente público ou privado, inclusive sob supervisão;</p>
+<p>III - a assinatura, a elaboração, a validação ou a coautoria de prontuários, de prescrições, de atestados, de laudos, de pareceres, de relatórios ou de quaisquer documentos de natureza médico-assistencial ou pericial;</p>
+<p>IV - a ocupação ou a substituição, formal ou informal, de cargo, de função, de posto de trabalho ou de atividade destinada a médico, inclusive em caráter administrativo, gerencial, consultivo ou de chefia em instituições de saúde.</p>
+<p>§ 1º A IEM autoriza somente o exercício das seguintes atividades de natureza estritamente técnico-científica, sem contato clínico com pacientes e sempre sob supervisão de médico regularmente inscrito ou de pesquisador responsável:</p>
+<p>I - assistente ou monitor de pesquisa científica;</p>
+<p>II - auxiliar em análises e consultorias técnicas em saúde, sem emissão de parecer assistencial;</p>
+<p>III - apoio a atividades de<em>compliance</em>, análise de informações clínicas ou elaboração de material científico, sem caráter assistencial ou pericial;</p>
+<p>IV - consultor em inovação, políticas públicas e tecnologia em saúde;</p>
+<p>V - assistente técnico em estabelecimentos de saúde, restrito a atividades administrativas, educacionais, logísticas ou de apoio científico, sem acesso, manejo ou orientação de pacientes;</p>
+<p>VI - colaboração em programas de educação médica, eventos científicos ou comunicação técnico-científica.</p>
+<p>§ 2º A IEM será pessoal, intransferível e distinta do registro profissional de médico, possuirá numeração própria e ficará sujeita à fiscalização dos Conselhos Regionais de Medicina quanto ao cumprimento das limitações impostas neste artigo.</p>
+<p>§ 3º O Conselho Federal de Medicina disciplinará, por meio de resolução específica, os critérios de concessão, anuidade, renovação, supervisão e cancelamento da IEM, as regras éticas e de responsabilidade aplicáveis aos egressos que dela sejam titulares e as condições em que se dará a inscrição, a regulamentação e a fiscalização dos graduados em Medicina que não obtiverem aprovação no Enamed.</p>
+<p>§ 4º O descumprimento das vedações previstas neste artigo implicará o cancelamento da IEM, assegurados o contraditório e a ampla defesa, sem prejuízo das demais sanções administrativas, civis e penais cabíveis.</p>
+<p>§ 5º Obtido o nível proficiente no Enamed, a IEM será cancelada com a inscrição do profissional no Conselho Regional de Medicina.</p>
+<p>§ 6º A IEM não restringe o exercício, por seu titular, de atividades não privativas de médico."</p>
+<p>Art. 11. A Lei nº 6.932, de 7 de julho de 1981, passa a vigorar com as seguintes alterações:</p>
+<p>"Art. 2º ...................................................................................................................</p>
+<p>Parágrafo único. A nota individual obtida como resultado final pelo participante que obtiver nível proficiente no Exame Nacional de Avaliação da Formação Médica (Enamed) poderá ser utilizada no processo seletivo para acesso direto aos programas de Residência Médica." (NR)</p>
+<p>"Art. 5º-A. Fica instituído, no âmbito da Comissão Nacional de Residência Médica, o Sistema Nacional de Avaliação da Residência Médica (Sinares), com a finalidade de melhorar a qualidade dos programas de Residência Médica e direcionar a sua oferta, na forma estabelecida em regulamento."</p>
+<p>"Art. 5º-B. Fica instituída a Comissão Permanente de Avaliação, instância de caráter deliberativo sobre o Sinares, composta de representantes:</p>
+<p>I - do Ministério da Educação;</p>
+<p>II - do Ministério da Saúde;</p>
+<p>III - da Associação Médica Brasileira (AMB); e</p>
+<p>IV - do Conselho Federal de Medicina.</p>
+<p>Parágrafo único. Cada órgão e entidade referidos no<em>caput</em>deste artigo indicará 1 (um) representante titular e 1 (um) suplente para compor a Comissão Permanente de Avaliação."</p>
+<p>Art. 12. O art. 2º da Lei nº 13.959, de 18 de dezembro de 2019, passa a vigorar com as seguintes alterações:</p>
+<p>"Art. 2º ...................................................................................................................</p>
+<p>...........................................................................................................................................</p>
+<p>§ 3º ..........................................................................................................................</p>
+<p>I - exame teórico, correspondente à terceira etapa do Exame Nacional de Avaliação da Formação Médica (Enamed); e</p>
+<p>............................................................................................................................................</p>
+<p>§ 4º O exame de habilidades clínicas será aplicado semestralmente, na forma prevista em edital.</p>
+<p>§ 5º .........................................................................................................................</p>
+<p>...........................................................................................................................................</p>
+<p>II - o valor cobrado para a realização do exame teórico observará as diretrizes e os modelos de financiamento estabelecidos pela Comissão Nacional de Avaliação da Formação Médica; e</p>
+<p>................................................................................................................................." (NR)</p>
+<p>Art. 13. O art. 5º da Lei nº 10.861, de 14 de abril de 2004, passa a vigorar acrescido do seguinte § 12:</p>
+<p>"Art. 5º ..................................................................................................................</p>
+<p>.........................................................................................................................................</p>
+<p>§ 12. O disposto neste artigo não se aplica aos cursos de graduação em Medicina, em decorrência da aplicação do Exame Nacional de Avaliação da Formação Médica (Enamed)." (NR)</p>
+<p>Art. 14. Somente serão considerados para fins de instauração de processo de supervisão e de aplicação de medidas cautelares os resultados das avaliações de cursos de Medicina realizadas no âmbito do Enamed a partir da data de publicação desta Lei.</p>
+<p>Art. 15. Fica revogado o art. 9º da Lei nº 12.871, de 22 de outubro de 2013.</p>
+<p>Art. 16. Esta Lei entra em vigor na data de sua publicação.</p>
+<p>Brasília, 6 de novembro de 2026; 205º da Independência e 138º da República.</p>
+<p>LUIZ INÁCIO LULA DA SILVA</p>
+<p>Leonardo Osvaldo Barchini Rosa</p>
+<p>Bruno Moretti</p>
+<p>Alexandre Rocha Santos Padilha</p>]]></content:encoded>
+    <category domain="origem">coleta de edições e seções</category>
+    <category>Seção 1 — Edição Extra</category>
+    <category>Lei</category>
+    <category>Atos do Poder Legislativo</category>
   </item>
 </channel>
 </rss>
